@@ -6,3 +6,21 @@
     background-size: auto 150%;
     background-position: 90% -5%;
 }
+
+high {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+box {
+    display: block;
+    border: 3px solid #ff4813;
+    padding: 0.5rem 0.75rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+orange {
+    color: #ff4813;
+}

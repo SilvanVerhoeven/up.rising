@@ -1,37 +1,57 @@
-## Up.rising
+<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
 
-You can use the [editor on GitHub](https://github.com/SilvanVerhoeven/up.rising/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Status Quo: Asche
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<high>Mitglieder diffamieren sich gegenseitig. Seit vier Monaten nicht beschlussfähig. Von 5% der Studierenden legitimiert.</high>
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Seit Jahren verrohen die Sitten im Studierendenparlament (StuPa). Eine konstruktive Zusammenarbeit zum Wohle der Studierendenschaft steht schon lange nicht mehr im Vordergrund. Mittlerweile ist das StuPa <b>seit vier Monaten nicht mehr beschlussfähig</b> gewesen, hat also keinerlei Politik mehr betrieben. Der Grund: <b>Mitglieder nehmen einfach nicht mehr ihr Amt wahr</b>. Der AStA muss notdürftig die Lücke füllen.
 
-```markdown
-Syntax highlighted code block
+Und trotzdem wird dieses Gremium auch im kommenden Semester wieder über die Geschicke der Studierendenschaft entscheiden und über <b>8 Millionen Euro</b> verwalten.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+<high>Das StuPa in seiner jetzigen Form ist überholt. Zu Asche verbrannt. Unbemerkt von den Studierenden &ndash; denn niemand interessiert sich dafür.</high>
 
-1. Numbered
-2. List
+## Unser Ziel: Die Wiedergeburt eines Phönix
 
-**Bold** and _Italic_ and `Code` text
+Die höchste Vertretung der Studierenden <b>muss neu gedacht werden</b>. Die <b>allermeisten Studierenden kennen die Rolle des StuPas für ihr Studium nicht</b>. Das muss sich ändern. Das StuPa muss neu geboren werden. Als Phönix aus der Asche auferstehen.
 
-[Link](url) and ![Image](src)
-```
+<high>Dafür haben wir keine fertige Lösung. Man kann keine fertige Lösung für 22.000 Studierende haben. Aber wir haben einen Plan.</high>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Unser Plan: Gemeinsames Brüten
 
-### Jekyll Themes
+Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten offenen Verfahren</b> ausgearbeitet werden.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SilvanVerhoeven/up.rising/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Plan im Detail einsehen](plan.md)
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Unsere Prinzipien
+
+Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. Wir richten unser Handeln stattdessen an einer <b>Reihe von Prinzipien</b> aus.
+
+### Respekt
+
+Über die Sache kann gestritten werden. Meinungsverschiedenheiten sind normal und müssen immer wieder weitesgehend ausdiskutiert werden. Doch persönliche Angriffe sind tabu. Deshalb verfolgen wir stets eine sachliche Diskussion, statt uns an den Gehässigkeiten im StuPa zu beteiligen.
+
+### Transparenz
+
+Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle, kurze und verständliche StuPa-Protokolle und twittern regelmäßig von den StuPa-Sitzungen.
+
+### Datenschutz
+
+Transparenz heißt aber nicht, dass man selbst gläsern sein muss. Jede:r hat ein Recht auf Privatsphäre. Datenschutz ist für uns auch kein Vorwand, um etwas abzublocken. Eigentlich immer geht das Nötige, wenn man will.
+
+### Pragmatismus
+
+Zeiten und Umstände ändern sich. Statt sich mit Kraft dagegen zu wehren sollte die Energie lieber darauf verwendet werden, das beste aus der Situation zu machen &ndash; ohne die eigenen Werte aus den Augen zu verlieren.
+
+### Toleranz
+
+Wir sind tolerant &ndash; gegenüber den Menschen selbst sowie ihren Sorgen und Nöten. Sie geht Hand in Hand mit gegenseitiger Rücksicht. Nicht tolerant sind wir lediglich gegenüber Nicht-Toleranten. Klingt widersprüchlich? Ist es aber eigentlich nicht.
+
+### Digitalisierung
+
+Eine Liste die nur aus Informatiker:innen besteht? Da sind wir natürlich auch für Digitalisierung. Allerdings mit Bedacht und nur wo sinnvoll. Und natürlich richtig gemacht.
