@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Up.rising
 
 You can use the [editor on GitHub](https://github.com/SilvanVerhoeven/up.rising/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
