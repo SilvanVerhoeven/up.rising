@@ -42,7 +42,7 @@ Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokrati
 
 ### Datenschutz
 
-Transparenz heißt aber nicht, dass man selbst gläsern sein muss. Jede:r hat ein Recht auf Privatsphäre. Datenschutz ist für uns auch kein Vorwand, um etwas abzublocken. Eigentlich immer geht das Nötige, wenn man will.
+Transparenz heißt aber nicht, dass man selbst gläsern sein muss. Jede:r hat ein Recht auf Privatsphäre. Datenschutz ist für uns auch kein Vorwand, um etwas abzublocken. Wenn man will, lassen sich immer Lösungen finden.
 
 ### Pragmatismus
 
