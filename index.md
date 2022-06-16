@@ -1,5 +1,7 @@
 <box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
 
+Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
+
 ## Status Quo: Asche
 
 <high>Mitglieder diffamieren sich gegenseitig. Seit vier Monaten nicht beschlussfähig. Von 5% der Studierenden legitimiert.</high>
@@ -28,6 +30,19 @@ Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten off
 
 ---
 
+## Wer wir sind
+
+Bei der StuPa-Wahl 2022 treten für UP.rising 6 Studierende an. Diese sind:
+
+* Linus Löll (IT-Systems Engineering)
+* Silvan Verhoeven (IT-Systems Engineering)
+* Paul Strobach (IT-Systems Engineering)
+* Jessica Obst (Informatik / Computational Science)
+* Florian Hübscher (IT-Systems Engineering)
+* Lukas Rost (IT-Systems Engineering)
+
+---
+
 ## Unsere Prinzipien
 
 Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. Wir richten unser Handeln stattdessen an einer <b>Reihe von Prinzipien</b> aus.
@@ -38,11 +53,11 @@ Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. W
 
 ### Transparenz
 
-Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle, kurze und verständliche StuPa-Protokolle und twittern regelmäßig von den StuPa-Sitzungen.
+Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle und kurze verständliche StuPa-Protokolle ein. Außerdem [twittern](https://twitter.com/hsg_uprising) wir regelmäßig von den StuPa-Sitzungen.
 
 ### Datenschutz
 
-Transparenz heißt aber nicht, dass man selbst gläsern sein muss. Jede:r hat ein Recht auf Privatsphäre. Datenschutz ist für uns auch kein Vorwand, um etwas abzublocken. Eigentlich immer geht das Nötige, wenn man will.
+Transparenz heißt aber nicht, dass man selbst gläsern sein muss. Jede:r hat ein Recht auf Privatsphäre. Datenschutz ist für uns auch kein Vorwand, um etwas abzublocken. Wenn man will, lassen sich immer Lösungen finden.
 
 ### Pragmatismus
 
