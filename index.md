@@ -28,6 +28,19 @@ Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten off
 
 ---
 
+## Wer wir sind
+
+Bei der StuPa-Wahl 2022 treten für UP.rising 6 Studierende an. Diese sind:
+
+* Linus Löll (IT-Systems Engineering)
+* Silvan Verhoeven (IT-Systems Engineering)
+* Paul Strobach (IT-Systems Engineering)
+* Jessica Obst (Informatik / Computational Science)
+* Florian Hübscher (IT-Systems Engineering)
+* Lukas Rost (IT-Systems Engineering)
+
+---
+
 ## Unsere Prinzipien
 
 Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. Wir richten unser Handeln stattdessen an einer <b>Reihe von Prinzipien</b> aus.
