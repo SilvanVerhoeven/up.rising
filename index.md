@@ -1,5 +1,7 @@
 <box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
 
+Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
+
 ## Status Quo: Asche
 
 <high>Mitglieder diffamieren sich gegenseitig. Seit vier Monaten nicht beschlussfähig. Von 5% der Studierenden legitimiert.</high>
@@ -51,7 +53,7 @@ Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. W
 
 ### Transparenz
 
-Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle, kurze und verständliche StuPa-Protokolle und twittern regelmäßig von den StuPa-Sitzungen.
+Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle und kurze verständliche StuPa-Protokolle ein. Außerdem [twittern](https://twitter.com/hsg_uprising) wir regelmäßig von den StuPa-Sitzungen.
 
 ### Datenschutz
 
