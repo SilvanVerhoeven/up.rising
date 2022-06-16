@@ -34,7 +34,7 @@ Die Ansätze werden anhand des eingegangenen Feedbacks wieder im kleinen Kreis
 - neu bewertet
 - aussortiert
 
-### Schritt 5: Sieben
+### Schritt 5: Filtern
 
 Schritt drei und vier werden so lange <b>wiederholt, bis nur noch ein geeignetes Modell übrig</b> ist.
 
