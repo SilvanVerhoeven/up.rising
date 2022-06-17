@@ -43,6 +43,8 @@ Bei der StuPa-Wahl 2022 treten für UP.rising 6 Studierende an. Diese sind:
 * Florian Hübscher (IT-Systems Engineering)
 * Lukas Rost (IT-Systems Engineering)
 
+Schau dir gerne an was wir so auf Twitter treiben: [UP.rising auf Twitter](https://twitter.com/hsg_uprising)
+
 ---
 
 ## Unsere Prinzipien
