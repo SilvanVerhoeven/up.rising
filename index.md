@@ -1,4 +1,6 @@
-<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais! [Mehr Informationen](https://www.uni-potsdam.de/de/stwa/wahlbekanntmachung)</box>
+<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
+
+Direkt am "Heimat"-Campus der Fakultät wählen oder Briefwahl in den anderen Wahllokalen durchführen &ndash; [Wahllokal finden](https://www.uni-potsdam.de/de/stwa/wahlbekanntmachung)
 
 Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
 
@@ -8,7 +10,7 @@ Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
 
 ---
 
-Seit Jahren verrohen die Sitten im Studierendenparlament (StuPa). Eine konstruktive Zusammenarbeit zum Wohle der Studierendenschaft steht schon lange nicht mehr im Vordergrund. Mittlerweile ist das StuPa <b>seit vier Monaten nicht mehr beschlussfähig</b> gewesen, hat also keinerlei Politik mehr betrieben. Der Grund: <b>Mitglieder nehmen einfach nicht mehr ihr Amt wahr</b>. Der AStA muss notdürftig die Lücke füllen.
+Seit Jahren verrohen die Sitten im Studierendenparlament (StuPa). Eine konstruktive Zusammenarbeit zum Wohle der Studierendenschaft steht schon lange nicht mehr im Vordergrund. Mittlerweile ist das StuPa <b>seit vier Monaten nicht mehr beschlussfähig</b> gewesen, hat also keinerlei Politik mehr betrieben. Der Grund: <b>Mitglieder nehmen einfach nicht mehr ihr Amt wahr</b>, haben sich gegenseitig die Lust daran genommen. Der AStA muss notdürftig die Lücke füllen.
 
 Und trotzdem wird dieses Gremium auch im kommenden Semester wieder über die Geschicke der Studierendenschaft entscheiden und über <b>8 Millionen Euro</b> verwalten.
 
@@ -24,7 +26,7 @@ Die höchste Vertretung der Studierenden <b>muss neu gedacht werden</b>. Die <b>
 
 ## Unser Plan: Gemeinsames Brüten
 
-Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten offenen Verfahren</b> ausgearbeitet werden.
+Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten offenen Verfahren</b> ausgearbeitet werden. Wir wollen insbesondere direkt mit den Fachschaftsräten zusammenarbeiten.
 
 [Plan im Detail einsehen](plan.md)
 
