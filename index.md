@@ -1,4 +1,4 @@
-<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
+<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais! [Mehr Informationen](https://www.uni-potsdam.de/de/stwa/wahlbekanntmachung)</box>
 
 Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
 
