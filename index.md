@@ -1,3 +1,5 @@
+[Switch to English](en/index.md)
+
 <box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
 
 Direkt am "Heimat"-Campus der Fakultät wählen oder Briefwahl in den anderen Wahllokalen durchführen &ndash; [Wahllokal finden](https://www.uni-potsdam.de/de/stwa/wahlbekanntmachung)
@@ -70,6 +72,10 @@ Zeiten und Umstände ändern sich. Statt sich mit Kraft dagegen zu wehren sollte
 ### Toleranz
 
 Wir sind tolerant &ndash; gegenüber den Menschen selbst sowie ihren Sorgen und Nöten. Sie geht Hand in Hand mit gegenseitiger Rücksicht. Nicht tolerant sind wir lediglich gegenüber Nicht-Toleranten. Klingt widersprüchlich? Ist es aber eigentlich nicht.
+
+### Umweltschutz
+
+Den Planeten wohnbar zu halten klingt für uns nach einer verdammt guten Sache.
 
 ### Digitalisierung
 

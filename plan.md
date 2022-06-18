@@ -1,3 +1,5 @@
+[Switch to English](en/plan.md)
+
 ## Reformation des StuPas: Der Plan
 
 Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten offenen Verfahren</b> ausgearbeitet werden. Dies wollen wir folgendermaßen erreichen.
