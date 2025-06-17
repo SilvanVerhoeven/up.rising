@@ -1,82 +1,71 @@
-[Ins Deutsche wechseln](../index.md).
+[Switch to German](../index.md)
 
-<box>From <orange>21st to 23rd June</orange>: Vote for <b>UP.rising or BFF</b>. On Campus Golm, Griebnitzsee or Neues Palais!</box>
+<box>On <orange>June 24th and 25th, 2025</orange>: Vote for <b>UP.rising</b>. At Campus Golm, Griebnitzsee or Neues Palais!</box>
 
-Vote directly at your faculty's "home" campus or cast a mail ballot at the other polling stations &ndash; [find the polling stations](https://www.uni-potsdam.de/en/stwa/wahlbekanntmachung)
-
-We're also on [Twitter](https://twitter.com/hsg_uprising).
-
-## Status Quo: Ash
-
-<high>Members are defaming each other. No quorum for four months. Legitimated by 5% of the students.</high>
+Vote directly at your faculty's "home" campus or cast a mail ballot at the other polling stations &ndash; [find your polling station](https://www.uni-potsdam.de/en/stwa/wahlbekanntmachung)
 
 ---
 
-For years, morals brutalise in the student parliament (StuPa). A constructive collaboration for the good of the student body has long been ceased to be the primary objective. Meanwhile, the student parliament has <b>not been quorate for more than four months</b>, thus has not made any politics whatsoever. The reason: <b>Members simply don't hold their office</b>, have taken the motivation off each other. The AStA must fill the gap provisionally.
+## Status Quo
 
-And still, also in the coming semester, the parliament will decide on the fate of the student body and administer over <b>8 million Euros</b>.
+The Student Parliament (StuPa) is the <b>highest representation of students</b> at the University of Potsdam. It manages around <b>8 million euros</b> per year. However, most students are unaware of the opportunities that the StuPa offers. And the StuPa itself gets lost in <b>internal disputes and increasing lack of transparency</b>.
 
----
+## Our Plan
 
-<high>The StuPa in its current form is outdated. Burned to ash. Unnoticed by the students &ndash; as no one cares for it.</high>
+The highest representation of students <b>needs to be rethought and lived anew</b>. We want to wake up the StuPa, let the Phoenix rise from the ashes!
 
-## Our Goal: Rebirth of a Phoenix
+Our most important goals to bring the StuPa closer to students are:
+* **Transparent and comprehensible AStA and StuPa protocols**: The StuPa represents the interests of all students. Its work should therefore be <b>quick and easy to understand</b> for everyone.
+* **Regular reporting on StuPa sessions**: It is our list's tradition to regularly [tweet](https://twitter.com/hsg_uprising) from StuPa sessions. We want to absolutely continue this.
 
-The highest representation of the student body <b>must be rethought entirely</b>. The <b>vast majority of students don't know the StuPa's role for their studies</b>. This must change. The StuPa must be reborn. Resurrect as a Phoenix from the ashes.
+## Our Focus
 
-<high>We have no ready solution for this. One cannot have a ready solution for 22.000 students. But we have a plan.</high>
-
-## Our Plan: Breeding collectively
-
-The StuPa replacement must be worked out in a <b>transparent process open for those interested</b>. We want to collaborate with student representative groups in particular.
-
-[See plan details](plan.md)
+The following topics should be at the center of our work in the StuPa:
+* **Continuation of the nextbike partnership**: The costs for the nextbike partnership amount to <b>just a few euros per year</b> per student. We want to make negotiations with the provider transparent and not give up the great advantages of the partnership over a few euros.
+* **Digitalization of student representation**: We want to make student representation more digital. This means improving communication between committees and making the StuPa's work more transparent. We also want to advance the <b>digitalization of the university</b>.
 
 ---
 
-## Who we are
+## Who We Are
 
-At the StuPa elections 2022, 6 students run for the electoral list "UP.rising". They are:
+For the StuPa election 2025, 5 students are running for UP.rising. They are:
 
-* Linus Löll (IT-Systems Engineering)
-* Silvan Verhoeven (IT-Systems Engineering)
-* Paul Strobach (IT-Systems Engineering)
-* Jessica Obst (Informatik / Computational Science)
-* Florian Hübscher (IT-Systems Engineering)
-* Lukas Rost (IT-Systems Engineering)
-
-Have a look at what stuff we write on Twitter: [UP.rising on Twitter](https://twitter.com/hsg_uprising)
+* Theo Kramer (IT-Systems Engineering)
+* Joris Pracht (IT-Systems Engineering)
+* Simon Ament (IT-Systems Engineering)
+* Jean Philipp Donie (IT-Systems Engineering)
+* Ivaylo Staykov (IT-Systems Engineering)
 
 ---
 
 ## Our Principles
 
-The members of UP.rising follow <b>no fix political ideology</b>. We rather align our doing with a <b>set of principles</b>.
+The members of UP.rising follow <b>no fixed political ideology</b>. Instead, we align our actions with a <b>set of principles</b>.
 
 ### Respect
 
-It can be argued on the thing. Different opinions are normal and must be argued out again and again for most of the time. But personal attacks are forbidden. That's why we strive for a factual discussion, do not participate in the Stupa hostilities.
+The matter itself can be debated. Differences of opinion are normal and must be discussed thoroughly time and again. But personal attacks are taboo. That's why we always pursue factual discussion instead of participating in the hostilities in the StuPa.
 
 ### Transparency
 
-The ones with power must enable control. Only in this way can informed democratic decisions be made. That is why we advocate comprehensible AStA minutes and short understandable StuPa minutes. We also [tweet](https://twitter.com/hsg_uprising) regularly from StuPa meetings.
+Those who have power must enable control. Only this way can informed democratic decisions be made. That's why we advocate for comprehensible AStA minutes and short, understandable StuPa minutes. We also want to regularly [tweet](https://twitter.com/hsg_uprising) from StuPa sessions.
 
 ### Data Protection
 
-Transparency does not mean that you have to be transparent yourself. Everyone has a right to privacy. For us, data protection is not an excuse to block something. If you want to, solutions can always be found.
+However, transparency doesn't mean that one must be transparent themselves. Everyone has a right to privacy. For us, data protection is not an excuse to block something. If there's a will, solutions can always be found.
 
 ### Pragmatism
 
-Times and circumstances change. Instead of resisting with force, the energy should rather be used to make the best of the situation &ndash; without losing sight of one's own values.
+Times and circumstances change. Instead of forcefully resisting, energy should rather be used to make the best of the situation &ndash; without losing sight of one's own values.
 
 ### Tolerance
 
-We are tolerant &ndash; towards the people themselves and their worries and needs. It goes hand in hand with mutual consideration. We are not tolerant only towards the non-tolerant. Sounds contradictory? But actually it is not.
+We are tolerant &ndash; towards people themselves and their worries and needs. It goes hand in hand with mutual consideration. We are only intolerant towards the intolerant. Sounds contradictory? Actually, it isn't.
 
-### Protection of the Environment
+### Environmental Protection
 
-Keeping the planet liveable sounds like a damn good thing to us.
+Keeping the planet habitable sounds like a damn good thing to us.
 
-### Digitalisation
+### Digitalization
 
-A list consisting only of computer scientists? Of course we are also in favour of digitalisation. But with caution and only where it makes sense. And of course done properly.
+A list consisting only of computer scientists? Of course we're also in favor of digitalization. However, with careful consideration and only where it makes sense. And naturally, done properly.
