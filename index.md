@@ -1,51 +1,40 @@
 [Switch to English](en/index.md)
 
-<box>Vom <orange>21. bis 23. Juni</orange>: <b>UP.rising oder BFF</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
+<box>Am <orange>24. und 25. Juni 2025</orange>: <b>UP.rising</b> wählen. An Campus Golm, Griebnitzsee oder Neues Palais!</box>
 
 Direkt am "Heimat"-Campus der Fakultät wählen oder Briefwahl in den anderen Wahllokalen durchführen &ndash; [Wahllokal finden](https://www.uni-potsdam.de/de/stwa/wahlbekanntmachung)
 
-Wir sind auch auf [Twitter](https://twitter.com/hsg_uprising).
-
-## Status Quo: Asche
-
-<high>Mitglieder diffamieren sich gegenseitig. Seit vier Monaten nicht beschlussfähig. Von 5% der Studierenden legitimiert.</high>
-
 ---
 
-Seit Jahren verrohen die Sitten im Studierendenparlament (StuPa). Eine konstruktive Zusammenarbeit zum Wohle der Studierendenschaft steht schon lange nicht mehr im Vordergrund. Mittlerweile ist das StuPa <b>seit vier Monaten nicht mehr beschlussfähig</b> gewesen, hat also keinerlei Politik mehr betrieben. Der Grund: <b>Mitglieder nehmen einfach nicht mehr ihr Amt wahr</b>, haben sich gegenseitig die Lust daran genommen. Der AStA muss notdürftig die Lücke füllen.
+## Status Quo
 
-Und trotzdem wird dieses Gremium auch im kommenden Semester wieder über die Geschicke der Studierendenschaft entscheiden und über <b>8 Millionen Euro</b> verwalten.
+Das Studierendenparlament (StuPa) ist die <b>höchste Vertretung der Studierenden</b> an der Universität Potsdam. Es verwaltet rund <b>8 Millionen Euro</b> pro Jahr. Doch die meisten Studierenden kennen die Möglichkeiten, die das StuPa bietet, gar nicht. Und das StuPa selbst verliert sich in <b>internen Streitereien und zunehmender Intransparenz</b>.
 
----
+## Unser Plan
 
-<high>Das StuPa in seiner jetzigen Form ist überholt. Zu Asche verbrannt. Unbemerkt von den Studierenden &ndash; denn niemand interessiert sich dafür.</high>
+Die höchste Vertretung der Studierenden <b>muss neu gedacht und gelebt werden</b>. Wir wollen das StuPa wachrütteln, den Phoenix aus der Asche auferstehen lassen!
 
-## Unser Ziel: Die Wiedergeburt eines Phönix
+Unsere wichtigsten Ziele, um das StuPa wieder näher an die Studierenden zu bringen, sind:
+* **Transparente und nachvollziehbare AStA- und StuPa-Protokolle**: Das StuPa vertritt die Interessen aller Studierenden. Seine Arbeit sollte deshalb für jeden <b>schnell und einfach nachvollziehbar</b> sein.
+* **Regelmäßige Berichterstattung über die StuPa-Sitzungen**: Es ist eine Tradition unserer Liste, regelmäßig aus den StuPa-Sitzungen zu [twittern](https://twitter.com/hsg_uprising). Wir wollen das unbedingt fortführen.
 
-Die höchste Vertretung der Studierenden <b>muss neu gedacht werden</b>. Die <b>allermeisten Studierenden kennen die Rolle des StuPas für ihr Studium nicht</b>. Das muss sich ändern. Das StuPa muss neu geboren werden. Als Phönix aus der Asche auferstehen.
+## Unser Fokus
 
-<high>Dafür haben wir keine fertige Lösung. Man kann keine fertige Lösung für 22.000 Studierende haben. Aber wir haben einen Plan.</high>
-
-## Unser Plan: Gemeinsames Brüten
-
-Der StuPa-Ersatz muss in einem <b>transparenten und für alle Interessierten offenen Verfahren</b> ausgearbeitet werden. Wir wollen insbesondere direkt mit den Fachschaftsräten zusammenarbeiten.
-
-[Plan im Detail einsehen](plan.md)
+Im Zentrum unserer inhaltlichen Arbeit im StuPa sollen insbesondere die folgenden Themen stehen:
+* **Fortführung der nextbike-Partnerschaft**: Die Kosten für die nextbike-Partnerschaft belaufen sich je Studierenden auf <b>wenige Euro pro Jahr</b>. Wir wollen die Verhandlungen mit dem Anbieter transparent machen und die großen Vorteile der Partnerschaft nicht wegen ein paar Euro aufgeben.
+* **Digitalisierung der Studierendenvertretung**: Wir wollen die Studierendenvertretung digitaler machen. Das heißt, dass wir die Kommunikation zwischen den Gremien verbessern und die Arbeit des StuPas transparenter machen wollen. Außerdem wollen wir die <b>Digitalisierung der Universität</b> vorantreiben.
 
 ---
 
 ## Wer wir sind
 
-Bei der StuPa-Wahl 2022 treten für UP.rising 6 Studierende an. Diese sind:
+Bei der StuPa-Wahl 2025 treten für UP.rising 5 Studierende an. Diese sind:
 
-* Linus Löll (IT-Systems Engineering)
-* Silvan Verhoeven (IT-Systems Engineering)
-* Paul Strobach (IT-Systems Engineering)
-* Jessica Obst (Informatik / Computational Science)
-* Florian Hübscher (IT-Systems Engineering)
-* Lukas Rost (IT-Systems Engineering)
-
-Schau dir gerne an was wir so auf Twitter treiben: [UP.rising auf Twitter](https://twitter.com/hsg_uprising)
+* Theo Kramer (IT-Systems Engineering)
+* Joris Pracht (IT-Systems Engineering)
+* Simon Ament (IT-Systems Engineering)
+* Jean Philipp Donie (IT-Systems Engineering)
+* Ivaylo Staykov (IT-Systems Engineering)
 
 ---
 
@@ -59,7 +48,7 @@ Die Mitglieder von UP.rising befolgen <b>keine feste politische Ideologie</b>. W
 
 ### Transparenz
 
-Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle und kurze verständliche StuPa-Protokolle ein. Außerdem [twittern](https://twitter.com/hsg_uprising) wir regelmäßig von den StuPa-Sitzungen.
+Wer Macht hat, muss Kontrolle ermöglichen. Nur so können informierte demokratische Entscheidungen getroffen werden. Deshalb setzen wir uns für nachvollziehbare AStA-Protokolle und kurze verständliche StuPa-Protokolle ein. Außerdem wollen wir regelmäßig von den StuPa-Sitzungen [twittern](https://twitter.com/hsg_uprising).
 
 ### Datenschutz
 
